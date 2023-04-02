@@ -73,6 +73,8 @@ python -m spinup.run plot spinningup/data/ddpg/ddpg_s0 --norender
 
 ## DDPG 
 
+### epoch 30 simulate humanoid (test..ing)
+
 <img src="https://github.com/seohyunjun/RL_DDPG/blob/main/data/epoch30.gif" width="75%" height="75%" >
 <img src="https://github.com/seohyunjun/RL_DDPG/blob/main/ppt/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C1.png" height=80% width=80% >
 <img src="https://github.com/seohyunjun/RL_DDPG/blob/main/ppt/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C2.png" height=80% width=80% >
