@@ -16,7 +16,7 @@ DDPG - [Continuous control with deep reinforcement learning(2015.9.9)](https://a
 ### Mac setting 
 ```shell
 brew install cmake zlib
-pip install 'gymnasium[all]'
+pip install 'gymnasium[all]' 
 
 pip install autorom # 0.42 버전 설치 (0.55 버전 mac m1 subprocess error)
 AutoROM --accept-license (rom license Y 후 ale_py rom으로 파일 이동)
