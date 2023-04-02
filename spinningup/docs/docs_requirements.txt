@@ -1,0 +1,16 @@
+cloudpickle~=1.2.1
+gymnasium
+ipython
+joblib
+matplotlib
+numpy
+pandas
+pytest
+psutil
+scipy
+seaborn
+sphinx==1.5.6
+sphinx-autobuild==0.7.1       
+sphinx-rtd-theme==0.4.1 
+tensorflow-macos
+tqdm
