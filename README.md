@@ -73,11 +73,11 @@ python -m spinup.run plot spinningup/data/ddpg/ddpg_s0 --norender
 
 ## DDPG 
 
-<img src="https://github.com/seohyunjun/RL_DDPG/blob/main/ppt/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B31.jpeg" height=80% width=80% >
-<img src="https://github.com/seohyunjun/RL_DDPG/blob/main/ppt/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B32.jpeg" height=80% width=80% >
-<img src="https://github.com/seohyunjun/RL_DDPG/blob/main/ppt/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B33.jpeg" height=80% width=80% >
-<img src="https://github.com/seohyunjun/RL_DDPG/blob/main/ppt/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B34.jpeg" height=80% width=80% >
-<img src="https://github.com/seohyunjun/RL_DDPG/blob/main/ppt/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B35.jpeg" height=80% width=80% >
-<img src="https://github.com/seohyunjun/RL_DDPG/blob/main/ppt/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B36.jpeg" height=80% width=80% >
-<img src="https://github.com/seohyunjun/RL_DDPG/blob/main/ppt/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B37.jpeg" height=80% width=80% >
+<img src="https://github.com/seohyunjun/RL_DDPG/blob/main/ppt/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C1.png" height=80% width=80% >
+<img src="https://github.com/seohyunjun/RL_DDPG/blob/main/ppt/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C2.png" height=80% width=80% >
+<img src="https://github.com/seohyunjun/RL_DDPG/blob/main/ppt/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C3.png" height=80% width=80% >
+<img src="https://github.com/seohyunjun/RL_DDPG/blob/main/ppt/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C4.png" height=80% width=80% >
+<img src="https://github.com/seohyunjun/RL_DDPG/blob/main/ppt/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C5.png" height=80% width=80% >
+<img src="https://github.com/seohyunjun/RL_DDPG/blob/main/ppt/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C6.png" height=80% width=80% >
+<img src="https://github.com/seohyunjun/RL_DDPG/blob/main/ppt/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C7.png" height=80% width=80% >
 
